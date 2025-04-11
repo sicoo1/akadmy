@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,6 +48,12 @@
     .contact a:hover {
       background-color: #e63900;
     }
+    .contact img {
+      width: 25px;
+      height: 25px;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
   </style>
 </head>
 <body>
@@ -75,11 +80,22 @@
 
   <div class="section contact">
     <h2>تواصل معنا</h2>
-    <a href="#">واتساب</a>
-    <a href="#">فيسبوك</a>
-    <a href="#">تليجرام</a>
+    <a href="https://wa.me/201202384677">
+      <img src="whatsapp-icon.png" alt="واتساب" />
+      واتساب
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61566146841802">
+      <img src="facebook-icon.png" alt="فيسبوك" />
+      فيسبوك
+    </a>
+    <a href="https://t.me/yourtelegramlink">
+      <img src="telegram-icon.png" alt="تليجرام" />
+      تليجرام
+    </a>
+    <a href="mailto:your-email@gmail.com">
+      <img src="gmail-icon.png" alt="جميل" />
+      جميل
+    </a>
   </div>
 </body>
-</html>
-
-# akadmy
+</html
